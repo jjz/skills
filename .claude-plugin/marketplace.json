@@ -10,6 +10,14 @@
       "version": "1.0.0",
       "category": "compliance",
       "keywords": ["adsense", "google-ads", "compliance", "policy-review"]
+    },
+    {
+      "name": "seo-geo",
+      "source": "./plugins/seo-geo",
+      "description": "Audit or wire up SEO and GEO (generative/AI answer engine) fundamentals for a website, item by item, in English or Chinese.",
+      "version": "1.0.0",
+      "category": "web-development",
+      "keywords": ["seo", "geo", "generative-engine-optimization", "structured-data", "sitemap", "ai-crawlers"]
     }
   ]
 }

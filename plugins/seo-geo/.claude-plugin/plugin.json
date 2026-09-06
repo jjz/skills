@@ -1,0 +1,8 @@
+{
+  "name": "seo-geo",
+  "version": "1.0.0",
+  "description": "Audit or wire up SEO (search engines) and GEO (generative/AI answer engine) fundamentals for a website — metadata, structured data, sitemaps, redirects, i18n URLs, Core Web Vitals, and AI-crawler access. Includes a full English skill and a full Chinese translation.",
+  "author": { "name": "jjz" },
+  "license": "MIT",
+  "keywords": ["seo", "geo", "generative-engine-optimization", "structured-data", "sitemap", "ai-crawlers"]
+}

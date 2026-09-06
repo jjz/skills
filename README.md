@@ -9,6 +9,7 @@ In Claude Code:
 ```
 /plugin marketplace add jjz/skills
 /plugin install adsense-review
+/plugin install seo-geo
 ```
 
 (Replace `jjz/skills` with the actual GitHub path once published, e.g. `github.com/jjz/skills` or `jjz/skills` if using the short form Claude Code resolves against GitHub.)
@@ -24,6 +25,16 @@ Ships two independently invokable skills:
 - `adsense-review-zh` — 中文完整版
 
 See [`plugins/adsense-review/skills/adsense-review/SKILL.md`](./plugins/adsense-review/skills/adsense-review/SKILL.md) for the full content.
+
+### seo-geo
+
+Audit or wire up SEO (search engines) and GEO (generative/AI answer engine) fundamentals for a website — metadata, structured data, sitemaps, redirects, i18n URLs, Core Web Vitals, and AI-crawler access control. Useful when adding a page, renaming/removing a route, launching a new site or locale, or doing a pre-launch SEO/GEO check.
+
+Ships two independently invokable skills:
+- `seo-geo` — English (default)
+- `seo-geo-zh` — 中文完整版
+
+See [`plugins/seo-geo/skills/seo-geo/SKILL.md`](./plugins/seo-geo/skills/seo-geo/SKILL.md) for the full content.
 
 ## Repository layout
 
