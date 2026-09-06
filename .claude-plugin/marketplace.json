@@ -1,0 +1,15 @@
+{
+  "name": "jjz-skills",
+  "owner": { "name": "jjz" },
+  "description": "Open-source Claude Code skills.",
+  "plugins": [
+    {
+      "name": "adsense-review",
+      "source": "./plugins/adsense-review",
+      "description": "Audit a website against Google AdSense/Publisher Policies, item by item, in English or Chinese.",
+      "version": "1.0.0",
+      "category": "compliance",
+      "keywords": ["adsense", "google-ads", "compliance", "policy-review"]
+    }
+  ]
+}

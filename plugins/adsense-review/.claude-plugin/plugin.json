@@ -1,0 +1,8 @@
+{
+  "name": "adsense-review",
+  "version": "1.0.0",
+  "description": "Audit a website against Google AdSense/Publisher Policies (content, behavior, privacy, technical requirements), item by item. Includes a full English skill and a full Chinese skill.",
+  "author": { "name": "jjz" },
+  "license": "MIT",
+  "keywords": ["adsense", "google-ads", "compliance", "policy-review"]
+}
