@@ -1,0 +1,8 @@
+{
+  "name": "perf-optimization",
+  "version": "1.0.0",
+  "description": "Audit and improve Core Web Vitals (LCP/CLS/INP) and page weight for any website — images, third-party scripts, JS bundle size, fonts, and caching. Includes a full English skill and a full Chinese translation.",
+  "author": { "name": "jjz" },
+  "license": "MIT",
+  "keywords": ["performance", "core-web-vitals", "lighthouse", "pagespeed", "images", "bundle-size"]
+}

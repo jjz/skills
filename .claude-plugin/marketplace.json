@@ -18,6 +18,14 @@
       "version": "1.0.0",
       "category": "web-development",
       "keywords": ["seo", "geo", "generative-engine-optimization", "structured-data", "sitemap", "ai-crawlers"]
+    },
+    {
+      "name": "perf-optimization",
+      "source": "./plugins/perf-optimization",
+      "description": "Audit and improve Core Web Vitals (LCP/CLS/INP) and page weight for any website, item by item, in English or Chinese.",
+      "version": "1.0.0",
+      "category": "web-development",
+      "keywords": ["performance", "core-web-vitals", "lighthouse", "pagespeed", "images", "bundle-size"]
     }
   ]
 }

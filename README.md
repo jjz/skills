@@ -10,6 +10,7 @@ In Claude Code:
 /plugin marketplace add jjz/skills
 /plugin install adsense-review
 /plugin install seo-geo
+/plugin install perf-optimization
 ```
 
 (Replace `jjz/skills` with the actual GitHub path once published, e.g. `github.com/jjz/skills` or `jjz/skills` if using the short form Claude Code resolves against GitHub.)
@@ -35,6 +36,16 @@ Ships two independently invokable skills:
 - `seo-geo-zh` — 中文完整版
 
 See [`plugins/seo-geo/skills/seo-geo/SKILL.md`](./plugins/seo-geo/skills/seo-geo/SKILL.md) for the full content.
+
+### perf-optimization
+
+Audit and improve Core Web Vitals (LCP/CLS/INP) and page weight for any website — images, third-party scripts, JS bundle size, fonts, and caching. Useful before/after adding hero images, carousels, embeds, third-party scripts, or content-heavy pages, or for a general PageSpeed/Lighthouse review.
+
+Ships two independently invokable skills:
+- `perf-optimization` — English (default)
+- `perf-optimization-zh` — 中文完整版
+
+See [`plugins/perf-optimization/skills/perf-optimization/SKILL.md`](./plugins/perf-optimization/skills/perf-optimization/SKILL.md) for the full content.
 
 ## Repository layout
 
