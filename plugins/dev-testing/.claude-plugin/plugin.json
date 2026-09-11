@@ -1,0 +1,8 @@
+{
+  "name": "dev-testing",
+  "version": "1.0.0",
+  "description": "Plan and write unit, integration, and end-to-end tests across languages — test pyramid (L1/L2/L3), docker-compose-bound integration tests, per-language runners (Jest/Vitest/Bun test, pytest, Go, Rust, Solidity), Playwright E2E, and PDPO-safe test data. Includes a full English skill and a full Chinese skill.",
+  "author": { "name": "jjz" },
+  "license": "MIT",
+  "keywords": ["testing", "unit-testing", "integration-testing", "e2e", "test-pyramid", "docker-compose", "jest", "vitest", "pytest", "playwright", "testcontainers"]
+}

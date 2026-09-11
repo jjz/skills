@@ -26,6 +26,14 @@
       "version": "1.0.0",
       "category": "web-development",
       "keywords": ["performance", "core-web-vitals", "lighthouse", "pagespeed", "images", "bundle-size"]
+    },
+    {
+      "name": "dev-testing",
+      "source": "./plugins/dev-testing",
+      "description": "Plan and write unit, integration, and end-to-end tests across languages — test pyramid, docker-compose-bound integration tests, per-language runners, Playwright E2E, and PDPO-safe test data. In English or Chinese.",
+      "version": "1.0.0",
+      "category": "developer-tools",
+      "keywords": ["testing", "unit-testing", "integration-testing", "e2e", "test-pyramid", "docker-compose", "jest", "vitest", "pytest", "playwright"]
     }
   ]
 }

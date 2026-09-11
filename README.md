@@ -11,6 +11,7 @@ In Claude Code:
 /plugin install adsense-review
 /plugin install seo-geo
 /plugin install perf-optimization
+/plugin install dev-testing
 ```
 
 (Replace `jjz/skills` with the actual GitHub path once published, e.g. `github.com/jjz/skills` or `jjz/skills` if using the short form Claude Code resolves against GitHub.)
@@ -46,6 +47,16 @@ Ships two independently invokable skills:
 - `perf-optimization-zh` — 中文完整版
 
 See [`plugins/perf-optimization/skills/perf-optimization/SKILL.md`](./plugins/perf-optimization/skills/perf-optimization/SKILL.md) for the full content.
+
+### dev-testing
+
+Plan and write unit, integration, and end-to-end tests across languages — the test pyramid (L1/L2/L3), docker-compose-bound integration tests, per-language runners (Jest/Vitest/Bun test, pytest, Go, Rust, Solidity), Playwright E2E, and PDPO-safe test data. Useful when choosing what to test for a change, writing or reviewing tests, or debugging a flaky/slow suite. A developer-facing skill, separate from the website/SEO skills above.
+
+Ships two independently invokable skills:
+- `dev-testing` — English (default)
+- `dev-testing-zh` — 中文完整版
+
+See [`plugins/dev-testing/skills/dev-testing/SKILL.md`](./plugins/dev-testing/skills/dev-testing/SKILL.md) for the full content.
 
 ## Repository layout
 
